@@ -4,10 +4,16 @@ Triângulo
 
 
 $A=\frac{b.h}{2}$
+
+
 sendo
-A. área 
+
+
+A: área 
+
 B. base
-H. altura
+
+h: altura
 
 quadrado 
 $A=l²$
