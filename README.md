@@ -1,4 +1,4 @@
 # Aula5 
 
 triângulo 
-$A=\fra{b.h}{2}$
+$A=\frac{b.h}{2}$
