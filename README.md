@@ -1,7 +1,14 @@
 # Aula5 
 
-triângulo 
-$A=\frac{b.h}{2}$
+Triângulo 
 
+
+$A=\frac{b.h}{2}$
+sendo
+A. área 
+B. base
+H. altura
+
+quadrado 
 $A=l²$
 
