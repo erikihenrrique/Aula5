@@ -20,3 +20,8 @@ Quadrado
 
 $A=L²$
 
+sendo
+$A$: área 
+
+L:lado
+
