@@ -25,3 +25,7 @@ $A$: área
 
 L:lado
 
+Losango 
+
+$A$=\frac{D.d}{2}
+
