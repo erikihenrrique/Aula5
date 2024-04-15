@@ -18,5 +18,5 @@ h: altura
 Quadrado 
 
 
-$A=l²$
+$A=L²$
 
