@@ -29,3 +29,11 @@ Losango
 
 $A=\frac{D.d}{2}$
 
+sendo
+
+A:área 
+
+D:diagonal maior
+
+d:diagonal menor
+
