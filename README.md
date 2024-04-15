@@ -37,3 +37,5 @@ D:diagonal maior
 
 d:diagonal menor
 
+A=b.h
+
