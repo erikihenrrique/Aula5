@@ -9,7 +9,7 @@ $A=\frac{b.h}{2}$
 sendo
 
 
-A: área 
+a: área 
 
 b: base
 
