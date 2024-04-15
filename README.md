@@ -3,4 +3,4 @@
 triângulo 
 $A=\frac{b.h}{2}$
 
-$a=l²$
+$A=l²$
