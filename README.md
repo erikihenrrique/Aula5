@@ -27,5 +27,5 @@ L:lado
 
 Losango 
 
-$A$=\frac{D.d}{2}
+$A=\frac{D.d}{2}$
 
