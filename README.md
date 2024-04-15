@@ -54,5 +54,23 @@ Trapézio
 
 $A=\frac{(B+b).h}{2}$
 
+sendo 
+
+A:área 
+
+B:base maior
+
+b:base menor
+
+h:altura
+
+círculo 
+
+$A=\pi.r^{2}$
+
+sendo
+
+
+
 
 
