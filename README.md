@@ -38,7 +38,7 @@ D:diagonal maior
 d:diagonal menor
 
 
-retângulo
+Retângulo
 
 A=b . h
 
@@ -49,4 +49,10 @@ A:área
 b: base 
 
 h:altura 
+
+Trapézio 
+
+$A=\frac{B+b}.h{2}$
+
+
 
