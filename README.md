@@ -11,10 +11,12 @@ sendo
 
 A: área 
 
-B. base
+b: base
 
 h: altura
 
-quadrado 
+Quadrado 
+
+
 $A=l²$
 
