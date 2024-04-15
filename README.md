@@ -37,5 +37,16 @@ D:diagonal maior
 
 d:diagonal menor
 
+
+retângulo
+
 A=b . h
+
+sendo:
+
+A:área 
+
+b: base 
+
+h:altura 
 
